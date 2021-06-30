@@ -1,1 +1,1 @@
-# web-dezayn
+# web-dizayn
