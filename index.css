@@ -48,6 +48,10 @@ a{
     text-decoration: none;
     color: white;
 }
+button:hover{
+    background-color: rgb(238, 197, 197);
+    color: rgb(2, 1, 1);
+}
 .play{
     font-size: 47px;
     float: left;
