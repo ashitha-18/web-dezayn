@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+.bgm{
+    background-image:url('bgm.png');
+    height: 657px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.title{
+    color: white;
+    font-size: 66px;
+    font-family: 'Sen', sans-serif;
+    position:absolute;
+    left:500px ;
+    top: 20px;
+}
+.sub{
+    color:rgba(255, 255, 255, 0.6)    ;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    left:525px ;
+    top: 98px;
+}
+.pts{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    right:210px ;
+    top: 150px;
+}
+.finn1{
+    height:166px ;
+    width: 144px;
+    position: absolute;
+    left:220px ;
+    top: 164px;
+}
+hr{
+    width: 830px;
+    position: absolute;
+    left: 280px;
+    top: 330px;
+}

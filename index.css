@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+.bgm{
+    background-image:url('bgm.png');
+    height: 750px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.icon{
+    height:270px ;
+    width: 270px;
+    position: absolute;
+    left:258px ;
+    top: 180px;
+}
+.finn{
+    height:270px ;
+    width: 270px;
+    position: absolute;
+    left:692px ;
+    top: 180px;
+}
+.title{
+    height:100px ;
+    color: white;
+    font-size: 66px;
+    font-family: 'Sen', sans-serif;
+    position:absolute;
+    left:450px ;
+    top: 40px;
+}
+button{
+    height:70px ;
+    background-image: url('bgm.png');
+    width: 330px;
+    border-radius: 45px;
+    border-style: solid;
+    position: absolute;
+    left:35%;
+    top: 670px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.play{
+    font-size: 47px;
+    float: left;
+    position: relative;
+    left: 15px;
+    font-family: 'Fondamento';
+}
+.game{
+    font-size: 47px;
+    font-family: 'Ribeye Marrow';
+}
+
+
